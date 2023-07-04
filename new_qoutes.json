@@ -1,22 +1,132 @@
 [
   {
-    "author": "abdul",
-    "quote": "Observation is the secret to discovery!"
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "id": 4
   },
   {
-    "author": "abdul",
-    "quote": "Observation is the secret to discovery!"
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "id": 5
   },
   {
-    "author": "ne",
-    "qoute": "all is well"
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "id": 6
   },
   {
-    "author": "ne",
-    "qoute": "all is well"
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "id": 9
   },
   {
-    "da": "da",
-    "ds": "dj"
+    "quote": "If you can dream it, you can achieve it.",
+    "author": "Zig Ziglar",
+    "id": 10
+  },
+  {
+    "quote": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "id": 11
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "id": 12
+  },
+  {
+    "quote": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+    "author": "Ralph Waldo Emerson",
+    "id": 13
+  },
+  {
+    "quote": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+    "author": "William Saroyan",
+    "id": 14
+  },
+  {
+    "quote": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "id": 15
+  },
+  {
+    "quote": "The truth is rarely pure and never simple.",
+    "author": "Oscar Wilde",
+    "id": 16
+  },
+  {
+    "quote": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+    "author": "Buddha",
+    "id": 17
+  },
+  {
+    "quote": "The truth is like a lion; you don't have to defend it. Let it loose; it will defend itself.",
+    "author": "Augustine of Hippo",
+    "id": 18
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "id": 19
+  },
+  {
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "id": 20
+  },
+  {
+    "quote": "The best way to predict your future is to create it.",
+    "author": "Peter Drucker",
+    "id": 21
+  },
+  {
+    "quote": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "id": 22
+  },
+  {
+    "quote": "Love isn't something you find. Love is something that finds you.",
+    "author": "Loretta Young",
+    "id": 23
+  },
+  {
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "id": 24
+  },
+  {
+    "quote": "Love is like the wind, you can't see it but you can feel it.",
+    "author": "Nicholas Sparks",
+    "id": 25
+  },
+  {
+    "quote": "Life without love is like a tree without blossoms or fruit.",
+    "author": "Khalil Gibran",
+    "id": 26
+  },
+  {
+    "quote": "Love yourself first and everything else falls into line.",
+    "author": "Lucille Ball",
+    "id": 27
+  },
+  {
+    "quote": "Truth is like the sun. You can shut it out for a time, but it ain't going away.",
+    "author": "Elvis Presley",
+    "id": 28
+  },
+  {
+    "quote": "The truth will set you free, but first, it will piss you off.",
+    "author": "Gloria Steinem",
+    "id": 29
+  },
+  {
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "id": 30
+  },
+  {
+    "quote": "New qoute",
+    "author": "Abdulmumin",
+    "id": 31
   }
 ]
